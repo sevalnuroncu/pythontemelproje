@@ -20,6 +20,6 @@ output: [[[7, 6, 5], [4, 3], [2, 1]]"""
 Sonra generatör oluşturarak çözen bir kod buldum ve anlamaya çalıştım.---->flatten2.py
 Sonra flatten.py de yazdığım uzun kodun fonksiyon oluşturarak yapılan şeklini buldum. --->flatten3.py  en iyi çözüm buydu bence. Fonksiyon şart sağlanmadıkça kendi kendine döngüye giriyor.
 
-ikinci soruda önce for döngüsü ile liste içindeki listelerin tersi reverse fonk. kullanılarak alındı. Sonrada döngüden çıkıp listenin tersi alınarak soru çözülmüş oldu.
+#ikinci soruda önce for döngüsü ile liste içindeki listelerin tersi reverse fonk. kullanılarak alındı. Sonrada döngüden çıkıp listenin tersi alınarak soru çözülmüş oldu.
 
 
